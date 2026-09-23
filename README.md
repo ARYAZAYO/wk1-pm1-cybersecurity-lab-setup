@@ -55,4 +55,4 @@ sudo nmcli connection up "Wired connection 1"
 - [x] Clipboard sharing & drag-and-drop enabled in VM settings (Bidirectional)
 - [x] Shared folder enabled from host machine, mounted with Full access
 
-> **Note:** the shared folder currently maps `C:\Users\Kyth24\Downloads\Cyber Intern` — a subfolder inside the host's Downloads directory — rather than the Downloads folder itself. Functionally this still gives Kali access to shared files; if the requirement needs the literal Downloads root shared, either re-map the shared folder to Downloads directly, or note the subfolder choice in your submission comments.
+> **Note:** the shared folder currently maps `\Downloads\Cyber Intern` — a subfolder inside the host's Downloads directory — rather than the Downloads folder itself. Functionally this still gives Kali access to shared files; if the requirement needs the literal Downloads root shared, either re-map the shared folder to Downloads directly, or note the subfolder choice in your submission comments.
